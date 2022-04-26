@@ -1,0 +1,20 @@
+{
+  "license": "UNLICENSED",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@storybook/addon-interactions": "^6.3.12",
+    "@storybook/react": "6.3.12",
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "react-scripts": "^4.0.3",
+    "typescript": "4.6.3"
+  }
+}
